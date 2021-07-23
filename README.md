@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tashitams
 - 👀 I’m interested in building apps that can help schools and students
 - 🌱 I’m currently learning Inertiajs, Flutter and Laravel
-- 💞️ I’m looking to collaborate on Fluter and Laravel project
+- 💞️ I’m looking to collaborate on Flutter and Laravel project
 - 📫 How to reach me https://codertashi.me
 
 <!---
